@@ -1,0 +1,186 @@
+{
+    "currentCourses": [
+        {
+            "id":"1",
+            "title": "Sisteme de operare",
+            "description": "Studiul sistemelor de operare este esential pentru un profesionist in domeniul IT. Inscrie-te!",
+            "image_source": "../assets/operating-systems.jpg",
+            "video_tutorials":[
+                {
+                    "title":"Introducere",
+                    "link": "https://www.youtube.com/embed/dv4mXBsv6TI"
+                },
+                {
+                    "title":"Arhitectura sistemelor de operare",
+                    "link": "https://www.youtube.com/embed/Nc6KKSv_Ljc"
+                },
+                {
+                    "title":"Procese",
+                    "link": "https://www.youtube.com/embed/SfG_BefeGT4"
+                }
+            ],
+            "anunturi":[
+                {
+                    "title":"Examen",
+                    "text": "Nu uitati sa invatati pentru examen! Este foarte important sa exersati!",
+                    "date": "01/01/2020"
+                },
+                {
+                    "title":"Tema 1",
+                    "text": "Deadline-ul pentru tema 1 este maine!",
+                    "date": "01/03/2020"
+                }
+            ]
+        },
+        {
+            "id":"2",
+            "title": "Probabilitati",
+            "description": "Vei intelege schemele clasice de probabilitate si aplicabilitatea lor in situatii concrete.",
+            "image_source": "../assets/bell-curve.jpg",
+            "video_tutorials":[
+                {
+                    "title":"Variabile aleatoare discrete",
+                    "link": "https://www.youtube.com/embed/rifK8BtHaYI"
+                },
+                {
+                    "title":"Repartitie uniforma",
+                    "link": "https://www.youtube.com/embed/aCW8wm6nrRw"
+                },
+                {
+                    "title":"Repartitia binomiala",
+                    "link": "https://www.youtube.com/embed/ConmIDAzRqI"
+                }
+            ],
+            "anunturi":[
+                {
+                    "title":"Examen",
+                    "text": "Nu uitati sa invatati pentru examen!",
+                    "date": "01/01/2020"
+                },
+                {
+                    "title":"Tema 1",
+                    "text": "Deadline-ul pentru tema 1 este maine!",
+                    "date": "01/03/2020"
+                }
+            ]
+        },
+        {
+            "id":"3",
+            "title": "Statistica",
+            "description": "Teoria selectiei si a estimatiei sunt niste unelte foarte utile pentru un profesionist in domeniul IT.",
+            "image_source": "../assets/statistics-image.png",
+            "video_tutorials":[
+                {
+                    "title":"Repartitia de selectie",
+                    "link": "https://www.youtube.com/embed/DmZJ1blQOns"
+                },
+                {
+                    "title":"Intervale de incredere",
+                    "link": "https://www.youtube.com/embed/9GtaIHFuEZU"
+                }
+            ],
+            "anunturi":[
+                {
+                    "title":"Examen",
+                    "text": "Nu uitati sa invatati pentru examen!",
+                    "date": "01/01/2020"
+                },
+                {
+                    "title":"Tema 1",
+                    "text": "Deadline-ul pentru tema 1 este maine!",
+                    "date": "01/03/2020"
+                }
+            ]
+        },
+        {
+            "id":"4",
+            "title": "Programare Web",
+            "description": "HTML, CSS si Javascript te vor ajuta sa iti construiesti o cariera de succes in domeniul dezvoltarii web!",
+            "image_source": "../assets/web-development.jpg",
+            "video_tutorials":[
+                {
+                    "title":"HTML si CSS",
+                    "link": "https://www.youtube.com/embed/_qddlvUErn4"
+                },
+                {
+                    "title":"Javascript",
+                    "link": "https://www.youtube.com/embed/FrtFPv-ANAo"
+                }
+            ],
+            "anunturi":[
+                {
+                    "title":"Examen",
+                    "text": "Nu uitati sa invatati pentru examen!",
+                    "date": "01/01/2020"
+                },
+                {
+                    "title":"Tema 1",
+                    "text": "Deadline-ul pentru tema 1 este maine!",
+                    "date": "01/03/2020"
+                }
+            ]
+
+            
+        },
+        {
+            "id":"5",
+            "title": "Criptografie",
+            "description": "Esti interesat sa intelegi cum este securizata comunicarea prin Internet? Daca da, inscrie-te la curs!",
+            "image_source": "../assets/cripto.jpg",
+            "video_tutorials":[
+                {
+                    "title":"Introducere",
+                    "link": "https://www.youtube.com/embed/2aHkqB2-46k&t=2s"
+                },
+                {
+                    "title":"Cifruri istorice",
+                    "link": "https://www.youtube.com/embed/W1SY6qKZrUk"
+                },
+                {
+                    "title":"DES",
+                    "link": "https://www.youtube.com/embed/kPBJIhpcZgE&t=8s"
+                },
+                {
+                    "title":"Corpuri Galois",
+                    "link": "https://www.youtube.com/embed/x1v2tX4_dkQ"
+                },
+                {
+                    "title":"AES",
+                    "link": "https://www.youtube.com/embed/NHuibtoL_qk&t=1786s"
+                }
+            ],
+            "anunturi":[
+                {
+                    "title":"Examen",
+                    "text": "Nu uitati sa invatati pentru examen!",
+                    "date": "01/01/2020"
+                },
+                {
+                    "title":"Tema 1",
+                    "text": "Deadline-ul pentru tema 1 este maine!",
+                    "date": "01/03/2020"
+                }
+            ]
+        },
+        {
+            "id":"6",
+            "title": "Cloud Computing",
+            "description": "Invata beneficiile serviciilor de Cloud Computing si cum sa le implementezi!",
+            "image_source": "../assets/cloud-computing.jpg",
+            "video-tutorials":[],
+            "anunturi":[
+                {
+                    "title":"Examen",
+                    "text": "Nu uitati sa invatati pentru examen!",
+                    "date": "01/01/2020"
+                },
+                {
+                    "title":"Tema 1",
+                    "text": "Deadline-ul pentru tema 1 este maine!",
+                    "date": "01/03/2020"
+                }
+            ]
+        }
+
+    ]
+}

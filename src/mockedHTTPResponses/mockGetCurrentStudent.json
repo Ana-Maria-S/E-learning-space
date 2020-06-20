@@ -1,0 +1,18 @@
+{
+    "id":"1",
+    "name":"Gheorghe Florescu",
+    "enrolled_in_courses": ["1","2","4"],
+    "completed_courses":["5"],
+    "notes":[
+        {
+            "courseID": "1",
+            "titlu":"to do",
+            "text":"de citit cartea recomandata de profesor"
+        },
+        {
+            "courseID": "1",
+            "titlu":"sa nu uit",
+            "text":"de instalat Ubuntu"
+        }
+    ]
+}
